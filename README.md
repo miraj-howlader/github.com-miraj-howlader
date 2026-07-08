@@ -1,4 +1,4 @@
-# github.com-miraj-howlader 👋
+# miraj-howlader 👋
 
 
 ✅ My customized GitHub README
